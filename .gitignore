@@ -1,0 +1,15 @@
+# Dependencies & Build Output
+node_modules/
+dist/
+dist-ssr/
+
+# Local & Editor Artifacts
+.taste-skill/
+.vscode/
+.idea/
+*.local
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
